@@ -5,10 +5,10 @@ import fs from "fs"
 import path from "path"
 
 global.botNumber = ""
-global.owner = ["573133374132" , "51900373696"]
+global.owner = ["50578391933" , "50588896850"]
 global.suittag = [""]
 global.prems = []
-global.id_canal = ["120363399729727124@newsletter"]
+global.id_canal = ["0029VbCfr0zBvvsofUsffZ2q@newsletter"]
 global.name_canal = ["𝒮𝑒𝓃𝓀𝓊 𝐼𝓈𝒽𝒾𝑔𝒶𝓂𝒾"]
 global.rcanal = true
 
@@ -23,7 +23,7 @@ global.mayapi = 'https://mayapi.ooguy.com'
 global.rapidapiKey = 'af11563abemshfa1b96b74c5d44ep1dcb7ajsnb5ab0d38ef96'
 global.ffstalk_key = 'fgsiapi-2d090761-6d'
 global.ch = {
-ch1: "120363399729727124@newsletter"
+ch1: "0029VbCfr0zBvvsofUsffZ2q@newsletter"
 }
 
 global.api = "free_key"
@@ -32,7 +32,7 @@ export const defaultSettings = {
     botname: "𝒮𝑒𝓃𝓀𝓊 𝐼𝓈𝒽𝒾𝑔𝒶𝓂𝒾",
     textbot: "𝒮𝑒𝓃𝓀𝓊 𝐼𝓈𝒽𝒾𝑔𝒶𝓂𝒾",
     dev: "𝒮𝑒𝓃𝓀𝓊 𝐼𝓈𝒽𝒾𝑔𝒶𝓂𝒾",
-    author: "yo soy yo",
+    author: "𝕯𝖊𝖛𝕷𝖚𝖎𝖘𝖎𝖙𝖔",
     etiqueta: "𝒮𝑒𝓃𝓀𝓊 𝐼𝓈𝒽𝒾𝑔𝒶𝓂𝒾",
     currency: "1",
     banner: "https://files.catbox.moe/v8bvm3.jpg",
